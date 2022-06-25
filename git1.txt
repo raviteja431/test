@@ -1,3 +1,4 @@
 life is beautifull
 first command
-third command
+second command
+third commit
